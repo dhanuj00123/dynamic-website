@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dynamic-website/static/css/main.3e6a2eb3.chunk.css",
+    "main.css": "/dynamic-website/static/css/main.84ab41a2.chunk.css",
     "main.js": "/dynamic-website/static/js/main.ed39a7f2.chunk.js",
     "main.js.map": "/dynamic-website/static/js/main.ed39a7f2.chunk.js.map",
     "runtime-main.js": "/dynamic-website/static/js/runtime-main.8f6b59b3.js",
@@ -10,14 +10,14 @@
     "static/js/3.a6d511d1.chunk.js": "/dynamic-website/static/js/3.a6d511d1.chunk.js",
     "static/js/3.a6d511d1.chunk.js.map": "/dynamic-website/static/js/3.a6d511d1.chunk.js.map",
     "index.html": "/dynamic-website/index.html",
-    "static/css/main.3e6a2eb3.chunk.css.map": "/dynamic-website/static/css/main.3e6a2eb3.chunk.css.map",
+    "static/css/main.84ab41a2.chunk.css.map": "/dynamic-website/static/css/main.84ab41a2.chunk.css.map",
     "static/js/2.95f50dfc.chunk.js.LICENSE.txt": "/dynamic-website/static/js/2.95f50dfc.chunk.js.LICENSE.txt",
     "static/media/index.css": "/dynamic-website/static/media/night.c8ef4693.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8f6b59b3.js",
     "static/js/2.95f50dfc.chunk.js",
-    "static/css/main.3e6a2eb3.chunk.css",
+    "static/css/main.84ab41a2.chunk.css",
     "static/js/main.ed39a7f2.chunk.js"
   ]
 }
